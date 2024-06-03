@@ -30,23 +30,23 @@ const Footer = () => {
               >
                 <a href="index.html" className="relative">
                   <Image
-                    width={110}
-                    height={80}
-                    src="/images/logo/logo-light.svg"
+                    width={150}
+                    height={150}
+                    src="/images/logo/Handel_Hive2.png"
                     alt="Logo"
                     className="dark:hidden"
                   />
                   <Image
-                    width={110}
-                    height={80}
-                    src="/images/logo/logo-dark.svg"
+                    width={150}
+                    height={150}
+                    src="/images/logo/Handel_Hive2.png"
                     alt="Logo"
                     className="hidden dark:block"
                   />
                 </a>
 
                 <p className="mb-10 mt-5">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Content creation and marketing services.
                 </p>
 
                 <p className="mb-1.5 text-sectiontitle uppercase tracking-[5px]">
@@ -56,7 +56,7 @@ const Footer = () => {
                   href="#"
                   className="text-itemtitle font-medium text-black dark:text-white"
                 >
-                  hello@solid.com
+                  handelhive@gmail.com
                 </a>
               </motion.div>
 
@@ -100,26 +100,26 @@ const Footer = () => {
                         Product
                       </a>
                     </li>
-                    <li>
+                    {/* <li>
                       <a
                         href="#"
                         className="mb-3 inline-block hover:text-primary"
                       >
                         Careers
                       </a>
-                    </li>
-                    <li>
+                    </li> */}
+                    {/* <li>
                       <a
                         href="#"
                         className="mb-3 inline-block hover:text-primary"
                       >
                         Pricing
                       </a>
-                    </li>
+                    </li> */}
                   </ul>
                 </motion.div>
 
-                <motion.div
+                {/* <motion.div
                   variants={{
                     hidden: {
                       opacity: 0,
@@ -175,7 +175,7 @@ const Footer = () => {
                       </a>
                     </li>
                   </ul>
-                </motion.div>
+                </motion.div> */}
 
                 <motion.div
                   variants={{

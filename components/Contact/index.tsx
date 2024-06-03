@@ -178,28 +178,28 @@ const Contact = () => {
                 Find us
               </h2>
 
-              <div className="5 mb-7">
+              {/* <div className="5 mb-7">
                 <h3 className="mb-4 text-metatitle3 font-medium text-black dark:text-white">
                   Our Loaction
                 </h3>
                 <p>290 Maryam Springs 260, Courbevoie, Paris, France</p>
-              </div>
+              </div> */}
               <div className="5 mb-7">
                 <h3 className="mb-4 text-metatitle3 font-medium text-black dark:text-white">
                   Email Address
                 </h3>
                 <p>
-                  <a href="#">yourmail@domainname.com</a>
+                  <a href="#">handelhive@gmail.com</a>
                 </p>
               </div>
-              <div>
+              {/* <div>
                 <h4 className="mb-4 text-metatitle3 font-medium text-black dark:text-white">
                   Phone Number
                 </h4>
                 <p>
                   <a href="#">+009 42334 6343 843</a>
                 </p>
-              </div>
+              </div> */}
             </motion.div>
           </div>
         </div>

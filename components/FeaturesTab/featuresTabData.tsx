@@ -1,27 +1,27 @@
-import { FeatureTab } from "@/types/featureTab";
+  import { FeatureTab } from "@/types/featureTab";
 
 const featuresTabData: FeatureTab[] = [
   {
     id: "tabOne",
-    title: "Solid Has Neat & Clean User Interface.",
-    desc1: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultricies lacus non fermentum ultrices. Fusce consectetur le.`,
-    desc2: `    Nam id eleifend dui, id iaculis purus. Etiam lobortis neque nec finibus sagittis. Nulla ligula nunc egestas ut.`,
+    title: "HandelHive Generates Relatable and Catchy Content",
+    desc1: `We create content that is relatable which is based on recent events and trends.`,
+    desc2: `We currate quality content to capture attention of intended audience.`,
     image: "/images/features/features-light-01.png",
     imageDark: "/images/features/features-dark-01.svg",
   },
   {
     id: "tabTwo",
-    title: "Ready to Use Pages You Need for a SaaS Business.",
-    desc1: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultricies lacus non fermentum ultrices. Fusce consectetur le.`,
-    desc2: `    Nam id eleifend dui, id iaculis purus. Etiam lobortis neque nec finibus sagittis. Nulla ligula nunc egestas ut.`,
+    title: "Manage Essential Business pages with ease",
+    desc1: `We Manage Essential Business pages accross platforms.`,
+    desc2: `We ensure the right content is displayed at right times to ensure the correct reach.`,
     image: "/images/features/features-light-01.png",
     imageDark: "/images/features/features-dark-01.svg",
   },
   {
     id: "tabThree",
-    title: "Functional Blog, DB, Auth and Many More",
-    desc1: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultricies lacus non fermentum ultrices. Fusce consectetur le.`,
-    desc2: `Nam id eleifend dui, id iaculis purus. Etiam lobortis neque nec finibus sagittis. Nulla ligula nunc egestas ut.`,
+    title: "Expand Reach over mulitple platforms.",
+    desc1: `We integrate content accross various contents to ensure the correct potrayal of a brand's image`,
+    desc2: `We create different types of content for each social platform.`,
     image: "/images/features/features-light-01.png",
     imageDark: "/images/features/features-dark-01.svg",
   },
