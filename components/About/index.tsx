@@ -127,7 +127,7 @@ const About = () => {
                 A total Package 
               </h2>
               <p>
-                We ensure profile growth, customer outreach and many more. 
+                We provide a wide range of services which include social media handling, website deployment and many more.
               </p>
               <div>
                 <a

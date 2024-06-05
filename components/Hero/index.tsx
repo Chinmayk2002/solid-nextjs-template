@@ -49,7 +49,7 @@ const Hero = () => {
                 </form>
 
                 <p className="mt-5 text-black dark:text-white">
-                  Try for free no credit card required.
+                Feel free to reach us.
                 </p>
               </div>
             </div>

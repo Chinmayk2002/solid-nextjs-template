@@ -4,9 +4,9 @@ const featuresData: Feature[] = [
   {
     id: 1,
     icon: "/images/icon/icon-01.svg",
-    title: "Tailor made for every client",
+    title: "Tailored Content.",
     description:
-      "Custom made for every client specifically made for their needs.",
+      "Tailor made content for every client specifically made for their needs.",
   },
   {
     id: 2,

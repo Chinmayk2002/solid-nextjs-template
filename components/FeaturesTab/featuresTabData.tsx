@@ -20,8 +20,8 @@ const featuresTabData: FeatureTab[] = [
   {
     id: "tabThree",
     title: "Expand Reach over mulitple platforms.",
-    desc1: `We integrate content accross various contents to ensure the correct potrayal of a brand's image`,
-    desc2: `We create different types of content for each social platform.`,
+    desc1: `We integrate content accross variety of platforms to ensure the desired potrayal of a brand's image`,
+    desc2: `We create different types of content for every social platform.`,
     image: "/images/features/features-light-01.png",
     imageDark: "/images/features/features-dark-01.svg",
   },
