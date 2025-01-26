@@ -105,7 +105,7 @@ const Contact = () => {
                     <input
                       id="default-checkbox"
                       type="checkbox"
-                      className="peer sr-only"
+                      className="peer sr-only "
                     />
                     <span className="border-gray-300 bg-gray-100 text-blue-600 dark:border-gray-600 dark:bg-gray-700 group mt-2 flex h-5 min-w-[20px] items-center justify-center rounded peer-checked:bg-primary">
                       <svg
@@ -175,7 +175,7 @@ const Contact = () => {
               className="animate_top w-full md:w-2/5 md:p-7.5 lg:w-[26%] xl:pt-15"
             >
               <h2 className="mb-12.5 text-3xl font-semibold text-black dark:text-white xl:text-sectiontitle2">
-                Find us
+              We're Here to Help
               </h2>
 
               {/* <div className="5 mb-7">
@@ -189,7 +189,7 @@ const Contact = () => {
                   Email Address
                 </h3>
                 <p>
-                <a href="mailto:handelhive@gmail.com">@gmail.com</a>
+                <a href="mailto:handelhive@gmail.com">handelhive@gmail.com</a>
                 </p>
               </div>
               {/* <div>

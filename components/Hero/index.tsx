@@ -19,13 +19,11 @@ const Hero = () => {
               
               </h4>
               <h1 className="mb-5 pr-16 text-3xl font-bold text-black dark:text-white xl:text-hero ">
-                HandelHive
+                HandelHive - Empower Your Business with Expert IT Consulting & Digital Marketing
                 
               </h1>
               <p>
-              HandelHive specializes in elevating your brand's online presence through 
-              customized social media strategies, high-quality content creation, 
-              active community engagement, targeted advertising, and in-depth analytics. 
+              your partner in navigating the digital landscape. As experienced Software Development Engineers, we blend technical expertise with strategic insight to drive your business forward. Whether you’re looking to enhance your online presence or streamline your operations with cutting-edge technology, HandleHive is here to help you achieve sustainable growth and success. 
               
               </p>
 
@@ -49,7 +47,7 @@ const Hero = () => {
                 </form>
 
                 <p className="mt-5 text-black dark:text-white">
-                Feel free to reach us.
+                {/* Feel free to reach us. */}
                 </p>
               </div>
             </div>

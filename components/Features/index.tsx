@@ -13,7 +13,7 @@ const Feature = () => {
           {/* <!-- Section Title Start --> */}
           <SectionHeader
             headerInfo={{
-              title: "HandelHive FEATURES",
+              title: "What Do We Do",
               subtitle: "Core Features of HandelHive",
               description: `Detail oriented and Targeted Audience`,
             }}

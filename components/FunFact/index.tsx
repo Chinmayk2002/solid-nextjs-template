@@ -59,9 +59,7 @@ const FunFact = () => {
               Trusted by Global Companies.
             </h2>
             <p className="mx-auto lg:w-11/12">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
-              convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam
-              ante in maximus.
+            HandleHive is founded by two passionate Software Development Engineers committed to driving business success through technology and marketing innovation. With a blend of technical expertise and strategic insight, we deliver customized solutions that align with your business objectives. Our collaborative approach ensures that we not only meet but exceed your expectations, helping your business thrive in a rapidly changing digital landscape.
             </p>
           </motion.div>
 
@@ -85,7 +83,7 @@ const FunFact = () => {
               className="animate_top text-center"
             >
               <h3 className="mb-2.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                500K
+                20+
               </h3>
               <p className="text-lg lg:text-para2">World Wide Clients</p>
             </motion.div>
@@ -108,9 +106,9 @@ const FunFact = () => {
               className="animate_top text-center"
             >
               <h3 className="mb-2.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                1M+
+                100% 
               </h3>
-              <p className="text-lg lg:text-para2">Downloads</p>
+              <p className="text-lg lg:text-para2">Satisfaction</p>
             </motion.div>
             <motion.div
               variants={{
@@ -131,9 +129,9 @@ const FunFact = () => {
               className="animate_top text-center"
             >
               <h3 className="mb-2.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                865
+                100%
               </h3>
-              <p className="text-lg lg:text-para2">Winning Award</p>
+              <p className="text-lg lg:text-para2">Growth</p>
             </motion.div>
           </div>
         </div>
