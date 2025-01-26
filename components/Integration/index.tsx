@@ -11,7 +11,7 @@ const Integration = () => {
           {/* <!-- Section Title Start --> */}
           <SectionHeader
             headerInfo={{
-              title: `INTEGRATIONS`,
+              title: `Integrations`,
               subtitle: `Expansion of reach over a variety of forms.`,
               description: ``,
             }}
